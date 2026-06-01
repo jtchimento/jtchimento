@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm JT Chimento 👋
 
-<!--
-**jtchimento/jtchimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 The Digital World
+Infrastructure & Operations: IT Professional spending most of my screen time administering Windows/Linux server environments and keeping networks running smoothly.
 
-Here are some ideas to get you started:
+Self-Hosting & Networking: Passionate about building self-hosted infrastructure, managing VPS environments, and setting up my homelab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilitarian Tech: Exploring local AI instances, containerized services, and finding efficient ways to automate or improve daily workflows.
+
+🎛️ The Workshop
+Music Gadgetry: Designing, wiring, and building custom guitar pedals and analog audio circuitry.
+
+Rapid Prototyping: 3D printing utilitarian parts, custom enclosures, and functional fixes for everyday problems.
+
+🧗‍♂️ The Analog World
+When I'm away from the keyboard or the soldering iron, I'm usually:
+
+Wrenching: Maintaining and modifying a diverse fleet of driver-focused sports and classic cars.
+
+Moving: Bouldering, weight training, or practicing precision shooting out on the range.
+
+Exploring: Taking the van out to the mountains for camping trips with my wife and our dog.
+
