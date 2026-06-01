@@ -1,5 +1,8 @@
 ## Hi there, I'm JT Chimento 👋
 
+...and welcome to my Github! A little bit about myself:
+
+
 💻 The Digital World
 Infrastructure & Operations: IT Professional spending most of my screen time administering Windows/Linux server environments and keeping networks running smoothly.
 
