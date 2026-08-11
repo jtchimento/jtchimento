@@ -2,25 +2,6 @@
 
 ...and welcome to my Github! A little bit about myself:
 
+I'm an IT Professional by day, spending most of my time keeping small buisness environments and office networks running smoothly, as well as administering enterprise Linux/Windows environments. Outside of work hours, I'm usually building something—whether that's tinkering with my homelab, printing custom designs on my Ender 3, or soldering analog audio circuits and guitar pedals.
 
-💻 The Digital World
-Infrastructure & Operations: IT Professional spending most of my screen time administering Windows/Linux server environments and keeping networks running smoothly.
-
-Self-Hosting & Networking: Passionate about building self-hosted infrastructure, managing VPS environments, and setting up my homelab.
-
-Utilitarian Tech: Exploring local AI instances, containerized services, and finding efficient ways to automate or improve daily workflows.
-
-🎛️ The Workshop
-Music Gadgetry: Designing, wiring, and building custom guitar pedals and analog audio circuitry.
-
-Rapid Prototyping: 3D printing utilitarian parts, custom enclosures, and functional fixes for everyday problems.
-
-🧗‍♂️ The Analog World
-When I'm away from the keyboard or the soldering iron, I'm usually:
-
-Wrenching: Maintaining and modifying a diverse fleet of driver-focused sports and classic cars.
-
-Moving: Bouldering, weight training, or practicing precision shooting out on the range.
-
-Exploring: Taking the van out to the mountains for camping trips with my wife and our dog.
-
+When I’m out of the homelab or the workshop, I try to stay offline. You can usually find me producing/teaching music, bouldering, precision shooting at the range, or wrenching in the garage on my diverse fleet of driver-focused sports and classic cars. Whenever possible, I’m taking the van out in the wilderness with my wife and our dog.
